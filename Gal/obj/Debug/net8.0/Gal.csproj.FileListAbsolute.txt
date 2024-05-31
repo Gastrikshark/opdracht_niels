@@ -1,0 +1,14 @@
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\Periode 4\Gal\obj\Debug\net8.0\Gal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\Periode 4\Gal\obj\Debug\net8.0\Gal.AssemblyInfoInputs.cache
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\Periode 4\Gal\obj\Debug\net8.0\Gal.AssemblyInfo.cs
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\Periode 4\Gal\obj\Debug\net8.0\Gal.csproj.CoreCompileInputs.cache
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\Periode 4\Gal\bin\Debug\net8.0\Gal.exe
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\Periode 4\Gal\bin\Debug\net8.0\Gal.deps.json
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\Periode 4\Gal\bin\Debug\net8.0\Gal.runtimeconfig.json
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\Periode 4\Gal\bin\Debug\net8.0\Gal.dll
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\Periode 4\Gal\bin\Debug\net8.0\Gal.pdb
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\Periode 4\Gal\obj\Debug\net8.0\Gal.dll
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\Periode 4\Gal\obj\Debug\net8.0\refint\Gal.dll
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\Periode 4\Gal\obj\Debug\net8.0\Gal.pdb
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\Periode 4\Gal\obj\Debug\net8.0\Gal.genruntimeconfig.cache
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\Periode 4\Gal\obj\Debug\net8.0\ref\Gal.dll
